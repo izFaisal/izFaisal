@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @izFaisal
 - 👀 I’m interested in Data Analysis & Web Development 
-- 🌱 I’m currently learning JavaScript % Data Analysis by IBM
+- 🌱 I’m currently learning JavaScript & Data Analysis by IBM
 - 📫 How to reach me alherranfaisal@gamil.com
 
 <!---
